@@ -7,8 +7,10 @@ public class HelloWorld {
 		System.out.println("New Addition to file");
 		System.out.println("addition of new lines in july");
 		System.out.println("Continuation in Nov 2019");
-		System.out.println("Happy Learning , Humble");
+		System.out.println("Happy Learning , Humble, Continuous Learning");
 		System.out.println("Journey of thousand miles begins with single step");
+		System.out.println("See an opportunity to grow in every task");
+		System.out.println("Goal - Technocrat , Good in Comm skills");
 
 	}
 
