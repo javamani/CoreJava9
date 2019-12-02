@@ -10,9 +10,9 @@ public class HelloWorld {
 		System.out.println("Happy Learning , Humble, Stay focussed,Continuous Learning");
 		System.out.println("Journey of thousand miles begins with single step");
 		System.out.println("only you can change your life");
-		System.out.println("See an opportunity to grow in every task");
+		System.out.println("See an opportunity to grow  in every task");
 		System.out.println("Goal - Technocrat , Good in Comm skills - changed");
-		System.out.println("Git Fetch demo changed  "); 
+		System.out.println("Git Fetch demo changed -new "); 
 		
 
 
